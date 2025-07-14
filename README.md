@@ -10,8 +10,12 @@
 - **Get TLEs Tool**: Query the latest or historical TLEs for satellites from Space-Track using various filters (NORAD ID, epoch, mean motion, eccentricity, etc.).
 - **Propagate Satellite Tool**: Propagate any satellite's orbit to a specified epoch using the SGP4 algorithm and obtain position and velocity vectors.
 - **Extensible Design**: Built to easily add new tools—next up: Satellite interpolation support.
-- **Video Demo**:
-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w21zwpXZgAE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/w21zwpXZgAE))
+---
+
+## Demo
+
+*A video demo of the server and its tools will be added here soon!*
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w21zwpXZgAE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/w21zwpXZgAE))
 
 ---
 
@@ -94,17 +98,6 @@ result = await propagate_satellite_position(norad_cat_id=25544, epoch="2025-07-1
 
 ---
 
-## Demo
-
-*A video demo of the server and its tools will be added here soon!*
-
----
-
-## License
-
-MIT License
-
----
 
 ## Roadmap
 
