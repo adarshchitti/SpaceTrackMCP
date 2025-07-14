@@ -14,8 +14,9 @@
 
 ## Demo
 
-*A video demo of the server and its tools will be added here soon!*
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w21zwpXZgAE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/w21zwpXZgAE))
+
+https://github.com/user-attachments/assets/b9283603-f432-4d7d-bfca-5394686b168f
+
 
 ---
 
