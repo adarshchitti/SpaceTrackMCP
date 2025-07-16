@@ -1,12 +1,12 @@
 # SpaceTrackMCP
 
-**SpaceTrackMCP** is an MCP (Machine Control Protocol) server for the [Space-Track API](https://www.space-track.org/), built to provide programmatic and extensible access to satellite Two-Line Elements (TLEs) and satellite orbit propagation. The server is designed for research, automation, and educational purposes, and exposes a set of tools through an MCP interface.
+**SpaceTrackMCP** is an MCP (Model Context Protocol) server for the [Space-Track API](https://www.space-track.org/), built to provide programmatic and extensible access to satellite Two-Line Elements (TLEs) and satellite orbit propagation. The server is designed for research, automation, and educational purposes, and exposes a set of tools through an MCP interface.
 
 ---
 
 ## Features
 
-- **MCP Server**: Easily extensible server using FastMCP for remote control of tools.
+- **MCP Server**: Easily extensible server using FastMCP for enabling your agent with tools.
 - **Get TLEs Tool**: Query the latest or historical TLEs for satellites from Space-Track using various filters (NORAD ID, epoch, mean motion, eccentricity, etc.).
 - **Propagate Satellite Tool**: Propagate any satellite's orbit to a specified epoch using the SGP4 algorithm and obtain position and velocity vectors.
 - **Extensible Design**: Built to easily add new tools—next up: Satellite interpolation support.
